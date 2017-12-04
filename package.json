@@ -1,5 +1,5 @@
 {
-  "name": "browserslist-config-maritz",
+  "name": "@mtz/browserslist-config-maritz",
   "version": "0.1.0",
   "description": "Maritz' browserlist config",
   "main": "index.js",
