@@ -1,0 +1,28 @@
+{
+  "name": "browserslist-config-maritz",
+  "version": "0.1.0",
+  "description": "Maritz' browserlist config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext js --ignore-path ~/.gitignore"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaritzSTL/browserslist-config-maritz.git"
+  },
+  "keywords": [
+    "browserlist",
+    "Maritz"
+  ],
+  "author": "Maritz Motivation Solutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaritzSTL/browserslist-config-maritz/issues"
+  },
+  "homepage": "https://github.com/MaritzSTL/browserslist-config-maritz#readme",
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "eslint-plugin-maritz": "^0.3.0"
+  }
+}
