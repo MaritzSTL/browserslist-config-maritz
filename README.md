@@ -8,6 +8,6 @@ Browserslist config should be named `.browserslistrc` or `browserslist` and look
 
 ```
 "browserslist": [
-  "extends browserslist-config-mycompany"
+  "extends browserslist-config-maritz"
 ]
 ```
